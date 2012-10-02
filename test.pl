@@ -1,2 +1,4 @@
 #!/usr/bin/perl
-chmod +x test.pl
+print "Hello Kitty !\n";
+$a = 10;
+print "A=$a\n";
